@@ -57,7 +57,7 @@ A workshop to learn about complete OpenLANE FLOW (learn basic chip Design flow u
 
 
 **ACKNOWLEDGMENT**
-Kunal Ghosh (Co-founder, VSD Corp. Pvt. Ltd)
-Nickson Jose (Teaching Assistant, VSD Corp. Pvt. Ltd)
-Praharsha Mahurkar (Teaching Assistant, VSD Corp. Pvt. Ltd)
-Akurathi Radhika (Teaching Assistant, VSD Corp. Pvt. Ltd)
+1. Kunal Ghosh (Co-founder, VSD Corp. Pvt. Ltd)
+2. Nickson Jose (Teaching Assistant, VSD Corp. Pvt. Ltd)
+3. Praharsha Mahurkar (Teaching Assistant, VSD Corp. Pvt. Ltd)
+4. Akurathi Radhika (Teaching Assistant, VSD Corp. Pvt. Ltd)
