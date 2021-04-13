@@ -51,7 +51,6 @@ A workshop to learn about complete OpenLANE FLOW (learn basic chip Design flow u
 
 ![1](https://user-images.githubusercontent.com/82122053/114453879-9db45280-9bf7-11eb-8459-7de779e78f83.png)
 ![2](https://user-images.githubusercontent.com/82122053/114453884-9f7e1600-9bf7-11eb-80dc-174f630b289d.png)
-![3](https://user-images.githubusercontent.com/82122053/114453893-a1e07000-9bf7-11eb-82b3-1d634db04854.png)
 ![4](https://user-images.githubusercontent.com/82122053/114453898-a3119d00-9bf7-11eb-9453-be8bec5b9723.png)
 ![5](https://user-images.githubusercontent.com/82122053/114453900-a442ca00-9bf7-11eb-95e2-22e97970b967.png)
 ![7](https://user-images.githubusercontent.com/82122053/114453901-a442ca00-9bf7-11eb-8e08-c6678b42162e.png)
